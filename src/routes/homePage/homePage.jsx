@@ -1,4 +1,3 @@
-import React from 'react';
 import './homePage.scss';
 import SearchBar from '../../components/searchBar/SearchBar';
 
